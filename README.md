@@ -13,7 +13,7 @@ One of the main advantages of the "Vulkanism" modpack is its versatility. It is 
 🛢️ Video
 -
 There's a video on MrBird's channel that checks out Vulkan on Benchmark and the usual walkthrough of the Minecraft world, version 1.19.2 Fabric. Video: https://www.youtube.com/watch?v=6Qnpl-n2O_s
-
+### PC: **GPU - GTX 1650; CPU - Intel Xeon E5-2650v2; RAM -  16 GB (4x4 GB); SSD**
 # 🎧 The specifications of the PC to support Vulkan in Minecraft:
 
 - PROCESSOR: Intel Core i3-3210, / AMD A8-7600 APU or equivalent or higher
