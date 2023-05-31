@@ -2,7 +2,7 @@
 -
 Vulkanism - modpack is an incredibly powerful tool that boosts Minecraft's performance to unprecedented heights. It uses the advanced Vulkan graphics card architecture to provide faster and smoother gameplay.
 
-🎮 Vulcan beats OpenGL
+🎮 Vulkan beats OpenGL
 -
 States are bound to an instruction buffer rather than a context, as in OpenGL. In OpenGL, memory handling and synchronization is not explicit, in Vulkan the developer will have control over this. No error checking in the driver, to speed things up.
 
