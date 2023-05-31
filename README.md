@@ -1,10 +1,18 @@
-Hi everybody! I recently made a mod build for Fabric 1.19.2 that improves fps using the Vulkan API found on graphics cards.
-This assembly gives an increase in FPS more than Sodium and Optifine.
+🔥 Vulkanism - unique modpack
 -
-ATTENTION! NOT ALL PCS CAN RUN MINECRAFT WITH THIS BUILD. HERE ARE THE CHARACTERISTICS YOU NEED FOR MINECRAFT:
+Vulkanism - modpack is an incredibly powerful tool that boosts Minecraft's performance to unprecedented heights. It uses the advanced Vulkan graphics card architecture to provide faster and smoother gameplay.
+
+🎮 Vulcan beats OpenGL
 -
-PROCESSOR: Intel Core i3-3210, / AMD A8-7600 APU or equivalent or higher
+States are bound to an instruction buffer rather than a context, as in OpenGL. In OpenGL, memory handling and synchronization is not explicit, in Vulkan the developer will have control over this. No error checking in the driver, to speed things up.
 
-RAM: 3-4GB
+🚀 Vulkan gives performance
+-
+One of the main advantages of the "Vulkanism" modpack is its versatility. It is designed to work on many older devices that cannot run newer versions of Minecraft. This makes "Vulkanism" accessible to a wider audience of players. The Vulkan technology used in the "Vulkanism" mod pack is designed to optimize the graphics processor, allowing devices with weaker performance to run Minecraft graphics more efficiently. This means that even older devices can run "Vulkanism" without any problems.
 
-VIDEO CARD: GeForce MX130 / Radeon HD 7700(M) or equivalent or higher
+
+# 🎧 The specifications of the PC to support Vulkan in Minecraft:
+
+- PROCESSOR: Intel Core i3-3210, / AMD A8-7600 APU or equivalent or higher
+- RAM: 3-4GB
+- VIDEO CARD: GeForce MX130 / Radeon HD 7700(M) or equivalent or higher
