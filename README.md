@@ -1,5 +1,8 @@
 ![Vulkanism](https://files.catbox.moe/7y4ew0.png)
 
+[![](https://files.catbox.moe/giw52c.svg)](https://modrinth.com/modpack/vulkanism)
+[![](https://files.catbox.moe/zqt9b6.png)](https://www.donationalerts.com/c/kapkapbno)
+
 🔥 Vulkanism - unique modpack
 -
 Vulkanism - modpack is an incredibly powerful tool that boosts Minecraft's performance to unprecedented heights. It uses the advanced Vulkan graphics card architecture to provide faster and smoother gameplay.
