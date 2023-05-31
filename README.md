@@ -10,6 +10,9 @@ States are bound to an instruction buffer rather than a context, as in OpenGL. I
 -
 One of the main advantages of the "Vulkanism" modpack is its versatility. It is designed to work on many older devices that cannot run new versions of Minecraft in good FPS. This makes "Vulkanism" accessible to a wider audience of players. The Vulkan technology used in the "Vulkanism" mod pack is designed to optimize the graphics processor, allowing devices with weaker performance to run Minecraft graphics more efficiently. This means that even older devices can run "Vulkanism" without any problems.
 
+🛢️ Video
+-
+There's a video on MrBird's channel that checks out Vulkan on Benchmark and the usual walkthrough of the Minecraft world, version 1.19.2 Fabric. Video: https://www.youtube.com/watch?v=6Qnpl-n2O_s
 
 # 🎧 The specifications of the PC to support Vulkan in Minecraft:
 
